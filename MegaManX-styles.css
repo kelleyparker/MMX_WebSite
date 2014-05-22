@@ -1,0 +1,67 @@
+body {
+	text-align:center;
+	font-family:Agency FB;
+	font-size:50px;
+	font-weight:bold;
+	text-shadow: 2px 2px yellow;
+	background-color:gray;
+	background-image:url('http://stormunity.com/wp-content/uploads/2013/09/Capcom_logo.png');
+	background-position:center center;
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-size:contain;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+
+img.titleImage{
+	
+}
+	
+}
+.heroes{
+	
+}
+
+.mavericks{
+}
+
+.SigmaBosses{
+	
+}
+
+img.heroes{
+	border-style:ridge;
+	border-color:blue;
+	border-width:10px;
+	height:225px;
+	width:225px;
+	background-color:lightblue;
+}
+
+img.mavericks{
+	border-style:ridge;
+	border-color:red;
+	border-width:10px;
+	height:225px;
+	width:225px;
+	background-color:pink;
+}
+
+img.SigmaBosses{
+	border-style:ridge;
+	border-color:purple;
+	border-width:10px;
+	height:200px;
+	width:200px;
+	background-color:violet;
+}
+
+.copyright{
+	text-align:center;
+	font-size:29px;
+}
+
+.email{
+	font-size:29px;
+}
