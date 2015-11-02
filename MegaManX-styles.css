@@ -15,19 +15,19 @@ body {
 }
 
 img.titleImage{
-	
+
 }
-	
+
 }
 .heroes{
-	
+
 }
 
 .mavericks{
 }
 
 .SigmaBosses{
-	
+
 }
 
 img.heroes{
@@ -37,6 +37,10 @@ img.heroes{
 	height:225px;
 	width:225px;
 	background-color:lightblue;
+}
+
+img:hover{
+	opacity: 0.75;
 }
 
 img.mavericks{
