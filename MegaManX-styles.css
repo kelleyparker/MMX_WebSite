@@ -39,9 +39,9 @@ img.heroes{
 	background-color:lightblue;
 }
 
-img:hover{
+/*img:hover{
 	opacity: 0.75;
-}
+}*/
 
 img.mavericks{
 	border-style:ridge;
@@ -56,8 +56,8 @@ img.SigmaBosses{
 	border-style:ridge;
 	border-color:purple;
 	border-width:10px;
-	height:200px;
-	width:200px;
+	height:225px;
+	width:225px;
 	background-color:violet;
 }
 
